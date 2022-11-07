@@ -1,4 +1,4 @@
-package com.trajkovski.sfgpetclinic.model;
+package com.trajkovski.model;
 
 public class PetType {
 
