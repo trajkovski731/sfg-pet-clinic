@@ -1,4 +1,4 @@
-package com.trajkovski.model;
+package com.trajkovski.sfgpetclinic.model;
 
 import java.time.LocalDate;
 

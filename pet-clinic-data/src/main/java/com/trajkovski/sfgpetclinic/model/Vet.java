@@ -1,4 +1,4 @@
-package com.trajkovski.model;
+package com.trajkovski.sfgpetclinic.model;
 
-public class Vet extends Person{
+public class Vet extends Person {
 }
