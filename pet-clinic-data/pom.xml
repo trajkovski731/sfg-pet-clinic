@@ -2,7 +2,7 @@
     <parent>
         <artifactId>sfg-pet-clinic</artifactId>
         <groupId>com.trajkovski</groupId>
-        <version>0.0.3-SNAPSHOT</version>
+        <version>0.0.3</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <artifactId>pet-clinic-data</artifactId>
@@ -49,6 +49,6 @@
     </build>
 
   <scm>
-    <tag>sfg-pet-clinic-0.0.2</tag>
+    <tag>sfg-pet-clinic-0.0.3</tag>
   </scm>
 </project>
