@@ -15,9 +15,7 @@ public class DataLoader implements CommandLineRunner {
 
     private final OwnerService ownerService;
     private final VetService vetService;
-
     private final SpecialityService specialityService;
-
     private final PetTypeService petTypeService;
 
     public DataLoader(OwnerService ownerService,
