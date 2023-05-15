@@ -26,6 +26,10 @@ jobs:
       - run:
           name: Test
           command: mvn test
+      # Run integration tests
+      - run:
+          name: Integration tests
+          command: mvn integration-test
 
 # Invoke jobs via workflows
 # See: https://circleci.com/docs/2.0/configuration-reference/#workflows
