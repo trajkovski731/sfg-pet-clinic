@@ -28,6 +28,10 @@ jobs:
           command: mvn install
       # Run integration tests
       - run:
+          name: Tests
+          command: mvn verify
+      # Run integration tests
+      - run:
           name: Integration tests
           command: mvn integration-test
 
