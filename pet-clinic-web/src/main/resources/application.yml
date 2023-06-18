@@ -3,3 +3,6 @@ spring:
     basename: messages/messages
   profiles:
     active: springdatajpa
+
+sfg:
+  customVariable: PRODUCTION
