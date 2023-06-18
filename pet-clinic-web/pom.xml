@@ -85,6 +85,10 @@
             <artifactId>bootstrap</artifactId>
             <version>5.2.3</version>
         </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
         <!-- end of webjars -->
 
     </dependencies>
