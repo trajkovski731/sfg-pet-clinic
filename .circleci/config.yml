@@ -30,7 +30,7 @@ jobs:
       - run:
           name: Tests
           command: mvn verify
-      # Run integration tests
+      # Run integration tests test
       - run:
           name: Integration tests
           command: mvn integration-test
